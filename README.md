@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamas Akhtar</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Vectorxdev</h1>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="codingGuy" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamasAtr&label=Profile%20views&color=0e75b6&style=flat" alt="HamasAtr" /> </p>
